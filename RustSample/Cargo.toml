@@ -1,0 +1,8 @@
+[package]
+name = "RustSample"
+version = "0.1.0"
+authors = ["javiglesias <javiglesias@outlook.com>"]
+
+[dependencies]
+rand = "0.4.2"
+Coucrate={path = "Coucrate"}
